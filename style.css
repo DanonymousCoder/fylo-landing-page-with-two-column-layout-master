@@ -59,4 +59,5 @@
 .hero-body .message button {
     height: 43px;
     width: 180px;
+    background-color: hsl(224, 93%, 58%);
 }
