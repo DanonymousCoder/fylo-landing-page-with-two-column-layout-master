@@ -11,6 +11,6 @@
     gap: 3rem;
     font-size: 16px;
 }
-.hero nav .nav-link {
+.hero nav .nav-link a {
     text-decoration: none;
 }
