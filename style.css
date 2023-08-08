@@ -10,6 +10,7 @@
     display: flex;
     gap: 3rem;
     font-size: 16px;
+    padding-top: 5px;
 }
 .hero nav .nav-link a {
     text-decoration: none;
