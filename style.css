@@ -42,5 +42,6 @@
 }
 .hero-body .text p.sub {
     line-height: 25px;
-    margin-right: 150px;
+    margin-right: 50px;
+    font-size: 20px;
 }
