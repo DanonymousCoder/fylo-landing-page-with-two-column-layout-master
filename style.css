@@ -14,4 +14,5 @@
 }
 .hero nav .nav-link a {
     text-decoration: none;
+    color: hsl(243, 87%, 12%);
 }
