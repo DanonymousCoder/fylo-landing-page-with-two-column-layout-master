@@ -31,6 +31,8 @@
 .hero-body .text {
     padding-top: 70px;
     margin-right: 300px;
+    display: flex;
+    flex-direction: column;
 }
 .hero-body p.head {
     font-size: 45px;
