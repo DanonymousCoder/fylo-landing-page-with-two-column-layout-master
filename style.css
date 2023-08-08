@@ -60,8 +60,7 @@
 .hero-body .message a {
     display: inline-block;
     text-align: center;
-    height: 43px;
-    width: 180px;
+    padding: 10px 48px;
     background-color: hsl(224, 93%, 58%);
     border-radius: 5px;
     text-decoration: none;
