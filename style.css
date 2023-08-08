@@ -4,7 +4,7 @@
 }
 .hero nav {
     display: flex;
-    gap: 20rem;
+    gap: 30rem;
 }
 .hero nav .nav-link {
     
