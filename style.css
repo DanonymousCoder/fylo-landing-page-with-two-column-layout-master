@@ -21,6 +21,6 @@
 .hero-body {
     display: flex;
 }
-.hero-body .img img {
-    height: 50px;
+.hero-body .image img {
+    height: 100px;
 }
