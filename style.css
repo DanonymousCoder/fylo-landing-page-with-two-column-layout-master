@@ -58,6 +58,7 @@
     gap: 1rem;
 }
 .hero-body .message a {
+    text-align: center;
     height: 43px;
     width: 180px;
     background-color: hsl(224, 93%, 58%);
