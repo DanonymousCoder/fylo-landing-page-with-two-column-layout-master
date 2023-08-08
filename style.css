@@ -28,6 +28,9 @@
 .hero-body .image img {
     height: 500px;
 }
+.hero-body .text {
+    padding-top: 30px;
+}
 .hero-body p.head {
     font-size: 40px;
     font-weight: 700;
