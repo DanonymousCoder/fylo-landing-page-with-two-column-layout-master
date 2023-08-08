@@ -5,6 +5,7 @@
 .hero nav {
     display: flex;
     gap: 80rem;
+    padding: 20px 30px;
 }
 .hero nav .nav-link {
     display: flex;
