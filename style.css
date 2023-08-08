@@ -31,7 +31,6 @@
 }
 .hero-body .text {
     padding-top: 130px;
-    margin-right: 100px;
     display: flex;
     flex-direction: column;
     gap: .5rem;
