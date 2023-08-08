@@ -55,6 +55,7 @@
 .message {
     display: flex;
     gap: 1rem;
+    background-color: ;
 }
 .hero-body .message button {
     height: 43px;
