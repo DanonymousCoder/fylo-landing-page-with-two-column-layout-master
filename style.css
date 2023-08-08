@@ -34,7 +34,7 @@
     margin-right: 150px;
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 1rem;
 }
 .hero-body p.head {
     font-size: 55px;
