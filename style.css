@@ -55,7 +55,7 @@
 .message {
     display: flex;
     gap: 1rem;
-    background-color: ;
+    background-color: hsl(224, 93%, 58%);
 }
 .hero-body .message button {
     height: 43px;
