@@ -18,3 +18,6 @@
     text-decoration: none;
     color: hsl(243, 87%, 12%);
 }
+.hero .body {
+    display: flex;
+}
