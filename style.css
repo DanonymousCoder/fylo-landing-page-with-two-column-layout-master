@@ -52,6 +52,9 @@
     border-radius: 5px;
     border: 0.1px solid rgba(0, 0, 0, 0.521);
 }
+.message {
+    gap: 1.5rem;
+}
 .hero-body .message button {
     height: 43px;
     width: 180px;
