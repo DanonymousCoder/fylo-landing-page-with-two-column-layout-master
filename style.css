@@ -20,8 +20,8 @@
 }
 .hero-body {
     display: flex;
-    margin-left: 115px;
-    margin-right: 115px;
+    margin-left: 135px;
+    margin-right: 135px;
 }
 .hero-body .image img {
     height: 700px;
