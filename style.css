@@ -47,7 +47,7 @@
 .hero-body .message input {
     width: 300px;
     height: 30px;
-    padding: 5px 20px;
+    padding: 5px 30px;
     border-radius: 5px;
     border: 0.1px solid rgba(0, 0, 0, 0.521);
     color: hsla(0, 0%, 75%, 0.829);
