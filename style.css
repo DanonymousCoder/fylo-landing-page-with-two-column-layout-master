@@ -18,6 +18,9 @@
     text-decoration: none;
     color: hsl(243, 87%, 12%);
 }
-.hero .hero-body {
+.hero-body {
     display: flex;
+}
+.hero-body .image img {
+    
 }
