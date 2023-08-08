@@ -21,7 +21,7 @@
 .hero-body {
     display: flex;
     margin-left: 85px;
-    margin-right: 75px;
+    margin-right: 85px;
 }
 .hero-body .image img {
     height: 700px;
