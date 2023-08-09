@@ -110,5 +110,5 @@
 }
 .productive .body hr {
     width: 150px;
-    border: hsl(170, 45%, 43%);
+    border: 1px solid hsl(170, 45%, 43%);
 }
