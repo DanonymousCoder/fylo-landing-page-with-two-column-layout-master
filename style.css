@@ -128,7 +128,7 @@
 .productive .body hr {
     width: 200px;
     border: 0.05px solid hsl(170, 45%, 43%);
-    padding-top: 10px;
+    margin-top: 10px;
 }
 .card {
     background-color: white;
