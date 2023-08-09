@@ -118,9 +118,7 @@
     margin-top: 30px;
     width: 350px;
     height: 200px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+    
 }
 .card img {
     border-radius: 50%;
