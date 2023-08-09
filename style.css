@@ -92,8 +92,9 @@
 }
 .productive .txt p.head {
     font-size: 50px;
-    font-weight: 400;
+    font-weight: 700;
     padding-bottom: 50px;
+    font-family: 'Raleway', sans-serif;
 }
 .productive .txt .sub {
     display: flex;
