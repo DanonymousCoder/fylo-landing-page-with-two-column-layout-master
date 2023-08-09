@@ -92,6 +92,10 @@
     font-weight: 400;
     padding-bottom: 50px;
 }
+.productive .txt .sub {
+    display: flex;
+    flex-direction: column;
+}
 .productive .body .illustration-2 {
     height: 500px;
     padding-top: 10px;
