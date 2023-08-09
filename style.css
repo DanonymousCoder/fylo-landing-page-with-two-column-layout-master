@@ -142,4 +142,6 @@
     display: flex;
     padding-top: 10px;
     gap: .5rem;
+    font-family: 'Open sans', sans-serif;
+    font-weight: 400;
 }
