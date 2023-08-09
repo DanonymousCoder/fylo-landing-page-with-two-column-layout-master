@@ -120,6 +120,8 @@
     text-decoration: none;
     color: hsl(170, 45%, 43%);
     font-size: 22px;
+    font-family: 'Open sans', sans-serif;
+    font-weight: 400;
 }
 .productive .body hr {
     width: 200px;
