@@ -95,7 +95,7 @@
 .productive .txt .sub {
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 1rem;
     font-size: 20px;
     margin-right:340px;
     padding-bottom: 20px;
