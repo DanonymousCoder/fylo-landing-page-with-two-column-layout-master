@@ -27,6 +27,7 @@
 }
 .hero-body .image img {
     height: 600px;
+    margin-right: 15px;
 }
 .hero-body .text {
     padding-top: 130px;
