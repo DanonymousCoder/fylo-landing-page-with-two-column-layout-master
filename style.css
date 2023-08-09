@@ -86,6 +86,9 @@
 .productive .body .txt {
     margin-left: 155px;
 }
+.productive .body img {
+    height: 500px;
+}
 .productive .body .see {
     text-decoration: none;
 }
