@@ -72,6 +72,7 @@
 }
 .productive .d-curve {
     width: 100%;
+    position: relative;
 }
 .productive .body {
     background-color: hsl(240, 75%, 98%);
