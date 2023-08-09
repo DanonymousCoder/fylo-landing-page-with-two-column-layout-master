@@ -119,6 +119,7 @@
     width: 350px;
     height: 200px;
     display: flex;
+    flex-direction: column;
     justify-content: center;
 }
 .card img {
