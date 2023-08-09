@@ -109,4 +109,5 @@
 }
 .productive .body hr {
     width: 150px;
+    color: hsl(170, 45%, 43%);
 }
