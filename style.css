@@ -83,6 +83,9 @@
     display: flex;
     padding-top: 100px;
 }
+.productive .body .txt {
+    margin-left: 155px;
+}
 .productive .body .see {
     text-decoration: none;
 }
