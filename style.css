@@ -46,6 +46,8 @@
     line-height: 25px;
     margin-right: 170px;
     font-size: 20px;
+    font-family: 'Open sans', sans-serif;
+    
 }
 .hero-body .message input {
     width: 350px;
