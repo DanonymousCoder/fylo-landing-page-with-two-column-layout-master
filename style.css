@@ -145,6 +145,8 @@
 }
 .word {
     font-size: 14px;
+    font-family: 'Open sans', sans-serif;
+    font-weight: 400;
 }
 .card img {
     border-radius: 50%;
