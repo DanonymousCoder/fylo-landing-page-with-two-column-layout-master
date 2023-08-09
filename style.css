@@ -66,6 +66,9 @@
     color: white;
     font-size: 25px;
 }
+.productive {
+    display: flex;
+}
 .productive .d-curve {
     width: 100%;
 }
