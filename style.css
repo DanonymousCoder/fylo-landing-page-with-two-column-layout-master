@@ -119,3 +119,6 @@
     width: 450px;
     height: 300px;
 }
+.card img {
+    border-radius: 50%;
+}
