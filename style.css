@@ -138,6 +138,7 @@
     padding-top: 20px;
     padding-left: 20px;
     box-shadow: 0 0 5px 5px hsl(240, 75%, 98%);
+    margin-bottom: 50px;
 }
 .quote {
     font-size: 40px;
