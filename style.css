@@ -68,6 +68,7 @@
 }
 .productive {
     display: flex;
+    flex-direction: column;
 }
 .productive .d-curve {
     width: 100%;
