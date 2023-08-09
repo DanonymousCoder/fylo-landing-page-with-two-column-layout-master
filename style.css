@@ -171,7 +171,6 @@
     font-weight: lighter;
 }
 .call-to-action {
-    background-color: hsl(243, 87%, 12%);
+    background-color: hsl(238, 22%, 44%);
     width: 100vh;
-    height: 600px;
 }
