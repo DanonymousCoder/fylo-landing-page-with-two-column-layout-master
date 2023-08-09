@@ -83,3 +83,6 @@
     display: flex;
     padding-top: 100px;
 }
+.productive .body hr {
+    width: 100px;
+}
