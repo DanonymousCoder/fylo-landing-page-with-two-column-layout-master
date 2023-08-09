@@ -107,6 +107,7 @@
 .productive .body .see {
     text-decoration: none;
     color: hsl(170, 45%, 43%);
+    font-size: 25px;
 }
 .productive .body hr {
     width: 150px;
