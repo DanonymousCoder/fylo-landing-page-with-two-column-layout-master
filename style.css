@@ -137,6 +137,9 @@
     height: 200px;
     padding-top: 20px;
 }
+.quote {
+    font-size: 40px;
+}
 .card img {
     border-radius: 50%;
     height: 40px;
