@@ -172,4 +172,6 @@
 }
 .call-to-action {
     background-color: hsl(243, 87%, 12%);
+    width: 100vh;
+    
 }
