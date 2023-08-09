@@ -13,12 +13,11 @@
     gap: 3rem;
     font-size: 30px;
     padding-top: 15px;
-    font-family: 'Raleway', sans-serif;
 }
 .hero nav .nav-link a {
     text-decoration: none;
     color: hsl(243, 87%, 12%);
-
+    font-family: 'Raleway', sans-serif;
 }
 .hero-body {
     display: flex;
